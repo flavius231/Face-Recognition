@@ -1,0 +1,6 @@
+numpy # For working with data matrix
+scipy # scipy.linalg , Module for linear algebra to benchmark algorithms
+opencv-python # cv2 , For getting the web camera real time
+scikit-learn # sklearn , For importing the Olivetti Faces database
+matplotlib # For generating the comparison Graphs
+PyQt6 # For GUI, an extension of tkinter module
